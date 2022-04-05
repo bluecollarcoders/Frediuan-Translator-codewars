@@ -25,4 +25,6 @@ for(let i in string) {
 }
   return string.join(" ");
 }
+
+toFreud('This is it')
 ```
